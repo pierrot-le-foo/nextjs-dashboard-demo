@@ -196,5 +196,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Built with ❤️ by <a href="https://pierre-drouillet-dev-ai.vercel.app/">Pierre</a>, your friendly AI developer.</p>
 </div>
